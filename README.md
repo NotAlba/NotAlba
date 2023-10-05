@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/alba-navarro-manzano-136a471a0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/aboutandreashinee/">
+  <a href="https://www.instagram.com/not_alba/">
    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=purple" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:qndreashinee@gmail.com">
+  <a href="mailto:navarromalba00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="LinkedIn Badge"/>
     </a>
 </div>
