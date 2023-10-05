@@ -15,3 +15,12 @@
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="LinkedIn Badge"/>
     </a>
 </div>
+<br>
+<div align="center" color="white">
+<h1>Hi there👋🏻 Welcome to my profile!</h1>
+<h3>I'm Alba, a Fullstack developer specialized in Frontend 👩🏻‍💻. I'm passionate about working on web projects and have gained experience in various technologies.</h3>
+<br>
+<h3>I work on different projects for various clients, ensuring innovative and customized technological solutions. </h3>
+<br>
+<br>
+</div>
